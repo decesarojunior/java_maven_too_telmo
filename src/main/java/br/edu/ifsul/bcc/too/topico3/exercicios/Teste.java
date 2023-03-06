@@ -19,7 +19,7 @@ public class Teste {
     
      // Comando para execução (a partir do diretorio java): java br/edu/ifsul/bcc/too/base/topico3/exercicios/Exercicio4
  
-        System.out.println("teste 123 456");
+        System.out.println("teste de impressao na saida padrao.");
         
     }
     
